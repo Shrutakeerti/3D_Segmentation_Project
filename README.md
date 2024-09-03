@@ -25,3 +25,8 @@ The model is based on the VNet architecture, a popular choice for 3D medical ima
 git clone https://github.com/yourusername/3d-segmentation-model.git
 cd 3d-segmentation-model
 
+### **2. Install Dependencies**
+Ensure that you have Python 3.7+ installed. Install the required Python packages using the `requirements.txt` file:
+
+``
+pip install -r requirements.txt
